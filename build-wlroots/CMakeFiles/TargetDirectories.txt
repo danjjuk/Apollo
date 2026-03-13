@@ -1,0 +1,3 @@
+/home/dan/project/repos/Apollo/build-wlroots/CMakeFiles/wlroots-virtual-output.dir
+/home/dan/project/repos/Apollo/build-wlroots/CMakeFiles/edit_cache.dir
+/home/dan/project/repos/Apollo/build-wlroots/CMakeFiles/rebuild_cache.dir
